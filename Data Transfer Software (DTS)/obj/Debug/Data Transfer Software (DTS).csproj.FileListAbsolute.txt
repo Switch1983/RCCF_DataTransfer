@@ -1,0 +1,7 @@
+C:\Src\RCCF\Data Transfer Software (DTS)\Data Transfer Software (DTS)\obj\Debug\Data Transfer Software (DTS).csprojResolveAssemblyReference.cache
+C:\Src\RCCF\Data Transfer Software (DTS)\Data Transfer Software (DTS)\bin\Data Transfer Software (DTS).dll
+C:\Src\RCCF\Data Transfer Software (DTS)\Data Transfer Software (DTS)\bin\Data Transfer Software (DTS).pdb
+C:\Src\RCCF\Data Transfer Software (DTS)\Data Transfer Software (DTS)\bin\RCCFLib.dll
+C:\Src\RCCF\Data Transfer Software (DTS)\Data Transfer Software (DTS)\bin\RCCFLib.pdb
+C:\Src\RCCF\Data Transfer Software (DTS)\Data Transfer Software (DTS)\obj\Debug\Data Transfer Software (DTS).dll
+C:\Src\RCCF\Data Transfer Software (DTS)\Data Transfer Software (DTS)\obj\Debug\Data Transfer Software (DTS).pdb
